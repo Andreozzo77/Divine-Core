@@ -1,0 +1,6 @@
+
+name: DivineCore
+main: Rage\DivineCore\Main
+version: 0.0.1
+api: 3.11.6
+author: Rage
